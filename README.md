@@ -8,6 +8,8 @@ I’m gonna keep this short and simple: if you intend to get a fish, and you wan
 ## Fishkeeping test
 Test your understanding here: https://forms.gle/cN2UNbwuv6VDcWaHA
 
+## Highlighted points
+
 ### Understanding basic chemistry
 
 A knowledge in water chemistry is absolutely essential. In the wild, there are vast ecosystems in play. These ecosystems regulate everything from oxygen, to food, to everything else. However, any typical home aquarium can only scarcely attempt to reproduce the natural systems. Although fish can be hardy creatures, subjecting them to suboptimal conditions outside of their range of adaptability will ultimately lead to premature death, no matter the good intentions of the owner.
