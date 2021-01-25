@@ -5,6 +5,9 @@ Taking care of an aquarium can be made easy, but one must know the biochemistry.
 
 I’m gonna keep this short and simple: if you intend to get a fish, and you want it to be happy, these are some key points I will highlight that will prevent your fish from kicking the bucket within a few days. Read this through and it will spare you a lot of heartbreak.
 
+## Fishkeeping test
+Test your understanding here: https://forms.gle/cN2UNbwuv6VDcWaHA
+
 ### Understanding basic chemistry
 
 A knowledge in water chemistry is absolutely essential. In the wild, there are vast ecosystems in play. These ecosystems regulate everything from oxygen, to food, to everything else. However, any typical home aquarium can only scarcely attempt to reproduce the natural systems. Although fish can be hardy creatures, subjecting them to suboptimal conditions outside of their range of adaptability will ultimately lead to premature death, no matter the good intentions of the owner.
