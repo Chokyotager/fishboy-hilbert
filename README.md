@@ -44,7 +44,8 @@ Feeding generally should not exceed 4% of the fishes’ body weight per day, and
 To put this in perspective, a tetra from the LFS typically weighs around 0.14 g, while a typical molly at around 0.3 g. This means the amount of food given to a typical small tropical fish should, by general rule, not exceed 14 mg per day.
 
 The general rule of thumb amongst aquarists is enough food for the fishes to complete in less than three minutes.
-Oxygen
+
+### Oxygen
 
 Animals in your aquaria need oxygen. Oxygen is vital for the survival of any aerobic organism, and your aquarium’s pets are definitely not an exception.
 
