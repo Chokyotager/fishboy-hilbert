@@ -140,6 +140,18 @@ pH outside of an acceptable range for fishes can lead to stunted growth, and inc
 
 To be safe, a typical pH value of 7.0 is usually fine for most fishes.
 
+### Hardness
+
+Hardness, or general hardness is defined as the total dissolved solids (TDS) in the water.
+
+(WIP)
+
+### Carbonate hardness
+
+Carbonate hardness, otherwise known as KH/total alkalinity, is defined as the concentration of carbonate and bicarbonate ions in the water. A high KH resists a sudden pH drop, which, if too extreme could induce shock in the fish.
+
+KH can be introduced into an aquarium system by calcium carbonate, a component of oyster shells. This is why some aquarists add oyster shells into their aquarium. As calcium carbonate is not very soluble, little of it gets dissolved into the water. In order to raise the pH, some aquarists prefer to use crushed coral, which would similarly raise the pH and KH of an aquarium.
+
 ### Nitrogen
 
 One of the most highly overlooked key parts with beginner freshwater aquarists. Nitrogen is a key ingredient in amino acids and life, as they form part of the building blocks such as proteins. In the aquaria, animals will defecate and release waste into the water. Unlike humans, fishes literally have to swim in their own waste, which in certain forms can be highly toxic.
