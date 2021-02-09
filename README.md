@@ -30,6 +30,7 @@ GH/general hardness/hardness - the concentration of dissolved ions
 KH/carbonate hardness/total alkalinity - the concentration of dissolved carbonate and bicarbonate ions
 Salinity - the concentration of dissolved sodium ions
 SG/specific gravity - the ratio of the aquarium water density compared to pure water
+TDS - the total dissolved solids
 ```
 
 
@@ -259,3 +260,11 @@ Solution:
 
 Ensure proper water movement for fishes. It is possible to create a tank that has regions of high flow and low flow, but this depends on your set-up.
 ```
+
+### Research, research and knowledge
+
+Knowledge is the only way to advance your aquarium. This article only covers the bare basics of fishkeeping - there are many other topics such as fish illness, even more advanced water chemistry, and so on - and this is just for what has been documented. Fishes are a very diverse group of organisms, each organism having its own specific parameters. It is fully the owner's responsibility to ensure that they are providing what they can for their fishes.
+
+Every good tank is unique - each with different filters, and thus slightly varying chemistry and so on. However, what bounds successful tanks together from failed ones is how fishkeeping knowledge is applied to the tank. Not every problem in fishkeeping has the clearest solution, and it is up to you, the owner, to problem-solve to make your pets as happy as reasonably possible.
+
+Happy fishkeeping! Have an attempt at the quiz set to solidfy your understanding, and feel free to contact me if you have any questions.
