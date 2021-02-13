@@ -271,6 +271,4 @@ Knowledge is the only way to advance your aquarium. This article only covers the
 
 Every good tank is unique - each with different filters, and thus slightly varying chemistry and so on. However, what bounds successful tanks together from failed ones is how fishkeeping knowledge is applied to the tank. Not every problem in fishkeeping has the clearest solution, and it is up to you, the owner, to problem-solve to make your pets as happy as reasonably possible.
 
-Happy fishkeeping! Have an attempt at the quiz set to solidfy your understanding, and feel free to c
-
-tact me if you have any questions.
+Happy fishkeeping! Have an attempt at the quiz set to solidfy your understanding, and feel free to contact me if you have any questions.
