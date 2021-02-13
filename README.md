@@ -40,7 +40,7 @@ Water volume increases the buffer for mistakes in an aquaria. More water would e
 
 In general, the fishkeeping community accepts a rule of *one inch of fish per gallon of water*. For further stocking instructions, it is advisable to look up online stocking calculators, such as https://aqadvisor.com/.
 
-A very common mistake made by beginners is overstocking any aquarium. People see their LFS placing tens, if not hundreds of fish in a single small tank. This is far too little. The fishes at the LFS are only there temporarily before they are sold. A much larger water volume is required for healthy fish, contrary to popular stereotype.
+A very common mistake made by beginners is overstocking any aquarium. People see their LFS placing tens, if not hundreds of fish in a single small tank. This is far too many fish in a small aquarium. The fishes at the LFS are only there temporarily before they are sold. A much larger water volume is required for healthy fish, contrary to popular stereotype.
 
 ```css
 Solution:
@@ -143,9 +143,13 @@ To be safe, a typical pH value of 7.0 is usually fine for most fishes.
 
 ### Hardness
 
-Hardness, or general hardness is defined as the total dissolved solids (TDS) in the water.
+Hardness, or general hardness (GH) is defined as the total amount of dissolved solids in the water. However, in aquaculture, typically only the divalent cations (with a +2 charge) are measured - reason being that these ions are usually the most abundant in the water, and play the most significance; this includes calcium (Ca2+) and magnesium (Mg2+) ions. Very hard water from taps would result in minerals depositing at the water pipes' lumen. Each species of fish require different levels of hardness to survive in.
 
-(WIP)
+Hardness is measured in French degrees of hardness (dGH), whereas 1 dGH equals to 17.9 ppm of divalent cations in the water. It is required for fish to build proper bones and other skeletal structures. Ideally the amount of magnesium ions should equal the amount of calcium ions in the water. Hard water is highly dependent on the environment where the water comes from, and tropical rivers with low pH usually have soft water, whereas rift valley lakes in Africa tend to have very high hardness, considering that they are surrounded by limestone.
+
+Generally, hardness of aquarium water can be increased by adding limestone, crushed oyster shells, or the like. Some aquarists prefer to directly add magnesium sulfate (epsom salts) and calcium carbonate powder, however such a practice is not mainstream. Water softening on the other hand can be done using cation resins, or simply using reverse osmosis (RO) water during a water change.
+
+12 dGH is generally considered the point between "hard" and "soft" water.
 
 ### Carbonate hardness
 
@@ -267,4 +271,6 @@ Knowledge is the only way to advance your aquarium. This article only covers the
 
 Every good tank is unique - each with different filters, and thus slightly varying chemistry and so on. However, what bounds successful tanks together from failed ones is how fishkeeping knowledge is applied to the tank. Not every problem in fishkeeping has the clearest solution, and it is up to you, the owner, to problem-solve to make your pets as happy as reasonably possible.
 
-Happy fishkeeping! Have an attempt at the quiz set to solidfy your understanding, and feel free to contact me if you have any questions.
+Happy fishkeeping! Have an attempt at the quiz set to solidfy your understanding, and feel free to c
+
+tact me if you have any questions.
